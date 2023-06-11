@@ -1,0 +1,4 @@
+cross_on_casia-P2:
+ ../CDCNpp_OULU_NPU_P2/CDCNpp_OULU_NPU_P2_400.pkl
+ Val:  val_threshold= 123.8592, val_ACC= 0.6667, val_ACER= 0.3356 
+Test:  ACC= 0.5944, APCER= 0.4161, BPCER= 0.3721, ACER= 0.3941 

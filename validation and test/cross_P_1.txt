@@ -1,0 +1,4 @@
+cross-val-P1:
+ ../CDCNpp_CASIA_FASD/CDCNpp_CASIA_FASD_400.pkl
+ Val:  val_threshold= 333.4667, val_ACC= 0.6922, val_ACER= 0.3090 
+Test:  ACC= 0.7417, APCER= 0.2604, BPCER= 0.2500, ACER= 0.2552 

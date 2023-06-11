@@ -1,0 +1,4 @@
+Oulu-NPU-val-P2:
+ ../CDCNpp_OULU_NPU_P2/CDCNpp_OULU_NPU_P2_400.pkl
+ Val:  val_threshold= 180.3833, val_ACC= 0.9938, val_ACER= 0.0065 
+Test:  ACC= 0.9417, APCER= 0.0847, BPCER= 0.0056, ACER= 0.0451 

@@ -1,0 +1,4 @@
+Oulu-NPU-val-P3-5:
+ 
+ Val:  val_threshold= 130.7461, val_ACC= 0.9991, val_ACER= 0.0022 
+Test:  ACC= 0.9900, APCER= 0.0125, BPCER= 0.0000, ACER= 0.0063 

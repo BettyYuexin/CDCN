@@ -1,0 +1,4 @@
+cross-P3-6:
+ 
+ Val:  val_threshold= 334.7952, val_ACC= 0.6942, val_ACER= 0.3078 
+Test:  ACC= 0.8300, APCER= 0.1375, BPCER= 0.3000, ACER= 0.2188 

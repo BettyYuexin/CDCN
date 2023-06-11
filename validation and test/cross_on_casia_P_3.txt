@@ -1,0 +1,9 @@
+cross_on_casia-P3:
+ cross_on_casia-P3-5:
+ 
+ Val:  val_threshold= 15.1401, val_ACC= 0.4889, val_ACER= 0.5178 
+Test:  ACC= 0.4889, APCER= 0.5255, BPCER= 0.4651, ACER= 0.4953 
+cross_on_casia-P3-6:
+ 
+ Val:  val_threshold= 212.6783, val_ACC= 0.5722, val_ACER= 0.4339 
+Test:  ACC= 0.5667, APCER= 0.4307, BPCER= 0.4419, ACER= 0.4363 

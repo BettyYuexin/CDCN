@@ -1,0 +1,25 @@
+cross_on_casia-P4:
+ cross_on_casia-P4-1:
+ 
+ Val:  val_threshold= 87.8974, val_ACC= 0.5444, val_ACER= 0.4458 
+Test:  ACC= 0.5500, APCER= 0.4526, BPCER= 0.4419, ACER= 0.4472 
+cross_on_casia-P4-2:
+ 
+ Val:  val_threshold= 88.9037, val_ACC= 0.6556, val_ACER= 0.3500 
+Test:  ACC= 0.6611, APCER= 0.3358, BPCER= 0.3488, ACER= 0.3423 
+cross_on_casia-P4-3:
+ 
+ Val:  val_threshold= 76.7850, val_ACC= 0.5111, val_ACER= 0.4890 
+Test:  ACC= 0.5167, APCER= 0.5036, BPCER= 0.4186, ACER= 0.4611 
+cross_on_casia-P4-4:
+ 
+ Val:  val_threshold= 33.8935, val_ACC= 0.6222, val_ACER= 0.3795 
+Test:  ACC= 0.5944, APCER= 0.4380, BPCER= 0.3023, ACER= 0.3701 
+cross_on_casia-P4-5:
+ 
+ Val:  val_threshold= 151.3610, val_ACC= 0.6000, val_ACER= 0.4014 
+Test:  ACC= 0.6444, APCER= 0.3723, BPCER= 0.3023, ACER= 0.3373 
+cross_on_casia-P4-6:
+ 
+ Val:  val_threshold= 83.8829, val_ACC= 0.5444, val_ACER= 0.4596 
+Test:  ACC= 0.5278, APCER= 0.4891, BPCER= 0.4186, ACER= 0.4538 
